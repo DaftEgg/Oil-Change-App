@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This app allows you to simply enter vehicle details, then the app takes that information and generates a printable label ready for printing. It also generates a .txt file for download if you prefer that.
 
+This app is useful for people who do their own oil change.
+
 ## Preview
 
 ![alt preview1](https://i.imgur.com/zqLoc9H.png)
